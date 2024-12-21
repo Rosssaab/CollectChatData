@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Output files
+output.txt
+crypto_chat.log
+
+# IDE
+.vscode/
+.idea/ 
